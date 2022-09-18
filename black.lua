@@ -14327,11 +14327,11 @@ if text == 'بقولك' or text == 'قولك' then
 
 return send(msg_chat_id,msg_id,'*قول وخلصنا ♥😂*',"md",false, false, false, false, reply_markup)
 end
-if text == '. ' or text == '. ' then
+if text =='.' or text == '.' then
 
 return send(msg_chat_id,msg_id,'*لا اله الا الله ُ ♥🍃*',"md",false, false, false, false, reply_markup)
 end
-if text =='.. ' or text == '.. ' then
+if text =='..' or text == '..' then
 
 return send(msg_chat_id,msg_id,'*صِـلَيّ عَلَى آلَنٌبّـيّ ♥🍃*',"md",false, false, false, false, reply_markup)
 
